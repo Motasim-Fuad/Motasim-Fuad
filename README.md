@@ -8,11 +8,14 @@
   
 ### Connect with me:
 <div id="badges">
+   <a href="https://www.linkedin.com/in/motasim-fuad-27949b319/">
+    <img src="https://img.shields.io/badge/linkedin-indigo?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Github Badge"/>
+  </a>
   <a href="https://github.com/Motasim-Fuad">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
    <a href="https://www.instagram.com/_motasim___?igsh=cGMxeXUwaXNneTIz">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     <a href="https://www.facebook.com/profile.php?id=100061346928340&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
