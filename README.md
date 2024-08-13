@@ -22,18 +22,6 @@
     </a>
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true" />
-</picture>
-
 ### Languages and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,nodejs,mongodb,c,java&perline=5)
