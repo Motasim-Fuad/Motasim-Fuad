@@ -25,7 +25,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,nodejs,mongodb,c,java&perline=5)](https://skillicons.dev)
 
-![murad1234560833 GitHub stats](https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true&theme=dark)
+![Motasim-Fuad GitHub stats](https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasim-Fuad&theme=dark)
 
