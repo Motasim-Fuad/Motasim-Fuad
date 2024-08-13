@@ -1,38 +1,31 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Motasim </h1>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 📫 How to reach me: mfms9798@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <a href="https://github.com/Motasim-Fuad">
+    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-   <a href="https://www.instagram.com/axif_taj">
+   <a href="https://www.instagram.com/_motasim___?igsh=cGMxeXUwaXNneTIz">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
+    <a href="https://www.facebook.com/profile.php?id=100061346928340&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    </a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,nodejs,mongodb,c,java&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true&theme=dark)
+![Motasim-Fuad GitHub stats](https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasim-Fuad&theme=dark)
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [Motasim] (https://github.com/Motasim-Fuad)
