@@ -9,7 +9,7 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/motasim-fuad-27949b319/?trk=public-profile-join-page">
-    <img src="https://img.shields.io/badge/Github-indgio?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-indgio?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://github.com/Motasim-Fuad">
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
