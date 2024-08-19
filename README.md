@@ -30,7 +30,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasim-Fuad&theme=radical)
 
+<a href=#><img src="contributions.svg"></a>
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_murad123460833/count.svg" />
+</p>
 
 
 <br>
