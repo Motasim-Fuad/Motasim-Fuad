@@ -26,16 +26,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,nodejs,mongodb,c,java&perline=5)
 
-![Motasim-Fuad GitHub stats](https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motasim-Fuad&theme=radical)
 
-<a href=#><img src="contributions.svg"></a>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_murad123460833/count.svg" />
-</p>
+
 
 
 <br>
