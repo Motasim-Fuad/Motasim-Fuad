@@ -27,10 +27,3 @@
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,nodejs,mongodb,c,java&perline=5)
 
 
-
-
-
-
-
-<br>
-⭐️ From [Motasim] (https://github.com/Motasim-Fuad)
