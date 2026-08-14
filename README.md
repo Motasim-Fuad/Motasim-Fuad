@@ -96,8 +96,11 @@ I’m happy to **demonstrate relevant projects, architecture, features, and tech
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Motasim-Fuad&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motasim-Fuad&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Motasim-Fuad&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Motasim-Fuad&theme=github-dark&hide_border=true" height="180" />
 </p>
 
 ---
