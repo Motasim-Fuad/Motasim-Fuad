@@ -24,6 +24,6 @@
 
 ### Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,python,prosgressql,FirstApic,java&perline=5)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,python,postgresql,fastapi,java&perline=5)
 
 
