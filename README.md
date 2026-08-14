@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Motasim Fuad
 
-### 🚀 Flutter Developer | Mobile App Developer | Backend & AI Enthusiast
+###  Flutter Developer | Mobile App Developer | Backend & AI Enthusiast
 
 I’m a **Flutter Developer** focused on building clean, scalable, and production-ready mobile applications. I enjoy turning ideas into reliable products with modern architecture, well-structured code, and smooth user experiences.
 
@@ -12,18 +12,18 @@ Currently, I’m expanding my expertise in **Backend Development, Python, FastAP
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently working with **Flutter & Dart**
-* 🌱 Currently learning **Backend Development & AI**
-* 🏗️ Interested in **Clean Architecture, scalable apps & maintainable code**
-* 🔌 Experienced with **REST APIs, Firebase & third-party integrations**
-* 📱 Experience with **Android & iOS application development**
-* 🚀 Familiar with **Google Play Store & Apple App Store deployment**
-* 🧠 Love solving complex problems and learning new technologies
-* 💼 Open to **challenging development opportunities**
+*  Currently working with **Flutter & Dart**
+*  Currently learning **Backend Development & AI**
+*  Interested in **Clean Architecture, scalable apps & maintainable code**
+*  Experienced with **REST APIs, Firebase & third-party integrations**
+*  Experience with **Android & iOS application development**
+*  Familiar with **Google Play Store & Apple App Store deployment**
+*  Love solving complex problems and learning new technologies
+*  Open to **challenging development opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Mobile Development
 
@@ -39,7 +39,7 @@ Currently, I’m expanding my expertise in **Backend Development, Python, FastAP
 
 ---
 
-## 🏗️ What I Work With
+##  What I Work With
 
 ```text
 Mobile Development
@@ -69,23 +69,23 @@ Development Tools
 
 ---
 
-## 🚀 Areas of Expertise
+##  Areas of Expertise
 
-* 📱 Cross-platform Mobile Application Development
-* 🔐 Authentication & Authorization
-* 🌐 REST API Integration
-* 🔥 Firebase Integration
-* 💳 Payment & Subscription Integration
-* 📍 Location-based Features
-* 🔔 Notifications & App Services
-* 🤖 AI-powered Application Integration
-* 🏪 Google Play & Apple App Store Deployment
-* 🧩 Clean & Maintainable Code
-* ⚡ Performance Optimization
+*  Cross-platform Mobile Application Development
+*  Authentication & Authorization
+*  REST API Integration
+*  Firebase Integration
+*  Payment & Subscription Integration
+*  Location-based Features
+*  Notifications & App Services
+*  AI-powered Application Integration
+*  Google Play & Apple App Store Deployment
+*  Clean & Maintainable Code
+*  Performance Optimization
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 Most of my professional/client projects are maintained in **private GitHub repositories** because of confidentiality and client ownership.
 
@@ -93,7 +93,7 @@ I’m happy to **demonstrate relevant projects, architecture, features, and tech
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="left">
   <a href="mailto:motasimfuad99@gmail.com">
@@ -115,6 +115,6 @@ I’m happy to **demonstrate relevant projects, architecture, features, and tech
 
 ---
 
-### 💡 "Build with purpose. Learn continuously. Ship confidently."
+###  "Build with purpose. Learn continuously. Ship confidently."
 
 ⭐ Thanks for visiting my profile!
